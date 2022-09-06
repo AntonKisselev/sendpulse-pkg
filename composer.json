@@ -2,6 +2,7 @@
     "name": "antonkisselev/sendpulse",
     "description": "sendpulse api with verify",
     "minimum-stability": "stable",
+    "version": "1.0.0",
     "require": {
         "php": "7.1.*",
         "sendpulse/rest-api": "^1.0"
