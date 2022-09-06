@@ -1,0 +1,70 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "a57aa2f284acbf2529d79c6845dd24fd",
+    "packages": [
+        {
+            "name": "sendpulse/rest-api",
+            "version": "1.0.26",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sendpulse/sendpulse-rest-api-php.git",
+                "reference": "e20b957c9b3e88563f449622c1f963f81e47c2d8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sendpulse/sendpulse-rest-api-php/zipball/e20b957c9b3e88563f449622c1f963f81e47c2d8",
+                "reference": "e20b957c9b3e88563f449622c1f963f81e47c2d8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Sendpulse\\RestApi\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Maksym Ustymenko",
+                    "email": "m.ustymenko@sendpulse.com"
+                },
+                {
+                    "name": "Alexey Moroz",
+                    "email": "a.moroz@sendpulse.com"
+                }
+            ],
+            "description": "Sendpulse REST API client library",
+            "keywords": [
+                "api",
+                "rest",
+                "sendpulse"
+            ],
+            "support": {
+                "issues": "https://github.com/sendpulse/sendpulse-rest-api-php/issues",
+                "source": "https://github.com/sendpulse/sendpulse-rest-api-php/tree/1.0.26"
+            },
+            "time": "2021-09-28T11:23:20+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "7.1.*"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
