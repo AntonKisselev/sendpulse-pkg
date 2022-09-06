@@ -1,0 +1,8 @@
+{
+    "name": "antonkisselev/sendpulse",
+    "description": "sendpulse api with verify",
+    "require": {
+        "php": "7.1",
+        "sendpulse/rest-api": "^1.0"
+    }
+}
