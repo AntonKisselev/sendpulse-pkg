@@ -3,7 +3,7 @@
     "description": "sendpulse api with verify",
     "minimum-stability": "stable",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "php": "7.1.*",
         "sendpulse/rest-api": "^1.0"
